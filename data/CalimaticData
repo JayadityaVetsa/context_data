@@ -1,0 +1,165 @@
+Get Started - Onboard With Calimatic Coach
+Get Started with your Account setup and one-on-one training from Calimatic Coach.
+Ivan Karmer
+Written By Ivan KarmerUpdated 2 years ago
+Calimatic provides the following services to get started with the platform:
+
+
+
+Free Calimatic Coach Program - An online meeting with your personal Calimatic Coach to determine your needs.
+Platform Configuration - Web-session with your Coach to get step by step walkthrough of the Platform and configuration to get you started with a customized platform.
+Billing & ePayments Configuration - Setting up Billing & ePayments and configuring the payment system to your requirements.
+Free Training to Franchise/Center Admin - Free of charge 1-hour training to the Franchise/Center Admin on the management, tools, and frameworks of the platform.
+Ongoing support - Customer Support team to provide any type of assistance about the platform.
+
+At Calimatic, we ensure that you will:
+
+Get a customized platform for your needs
+Use the platform effectively
+Have innovative tools on-hand
+Get assistance from the Support Team
+
+Book your one-on-one session here.
+
+
+
+Contact us at hello@calimaticedtech.com for any questions.
+
+
+Quick Start For Admins
+First steps after you subscribe to Calimatic EdTech (Jump Start)
+Ivan Karmer
+Written By Ivan KarmerUpdated one year ago
+
+This article covers the steps to quickly get started with the Platform.
+
+
+
+The user with which you subscribe to Calimatic (Free or Paid) will be the Master Admin.
+
+Once you login as Master Admin, you will be landed in the Dashboard/Home Page (after you activate your account and accept the End User License Agreement).
+
+
+
+
+
+
+
+Customization - If you want to Customize the Platform to meet your branding & institute needs, the high level Platform customizations are listed here - Customizing the Platform
+
+
+
+
+Franchise or Center Management 
+
+If you want to use the Platform for multiple Centers or Franchises separately, you have the ability to create separate accounts for each Center or Franchise. 
+
+The Platform accounts structure are explained here - Platform Accounts Structure
+Follow these steps to create a new Center or Franchise account - Franchise or Center Creation
+Follow below steps for each Franchise or Center as needed. If you have Franchises or Centers in multiple countries, please contact us to discuss the Payment Gateways & other details regarding the setup.
+
+
+Curriculum Creation  
+
+Create a Course:
+
+Click on the Courses menu. You have the ability to create and manage Courses and Curriculum or learning content in 2 different views - 
+
+Clicking on Course Player submenu will navigate to the Course Player page (OR)
+
+Clicking on Central submenu will navigate to the Central page
+
+
+
+
+
+
+
+You can choose any one of these ways based on your convenience.
+
+Clicking on the "Add New" button and selecting the "Course" option will open the Course popup.
+
+
+
+
+
+Enter the required information for the Course as needed.
+
+Click on the Create button and this will create the Course and keep the popup open. 
+
+
+
+
+
+Class Creation  
+
+You have the ability to create classes for a Course or its Level in the Course popup or in "Classes Overview" page. Refer here for managing Classes in "Classes Overview"
+
+Create a Class within a Course:
+
+Click on the "Manage Class" popup. In the popup, click on the "Add New" button to create a new Class.
+
+
+
+Enter required information for Class and click on Manage Pricing to enter Pricing information.
+
+Click on the Save buttons for Pricing and Class popups to save the info.
+
+
+
+
+
+Setup Payment Gateway to receive Payments for the enrollments  
+
+
+
+Refer here to setup Stripe to receive Payments for US & International Clients - Stripe Payment Setup 
+
+Refer here to setup RazorPay to receive Payments for India Clients - Razor Payment Setup
+
+Refer here to setup Plaid to receive Bank Account Payments for US Clients - Plaid Payment Setup
+
+
+
+
+
+Integrate the enrollment page to your website or directly use the enrollment page  
+
+
+
+Click on the Courses menu and click on the Class submenu. Click on the "Class Setup" menu on the left side section.
+
+Click on the "Generate Embedded Script" to integrate to your website. Copy the code from the popup and add in your website code.
+
+
+
+
+
+Add a Student and assign him to a Class (if not Enrolled via enrollment page)?
+Click on the Students menu and click on "Student Info" submenu.
+
+Click on the “Add Student" button to add a new Student. In the Overview tab, you have the ability to add Student's Information, add one or more Contacts of a Student.
+
+Click on Create button to create the Student. In the Student popup, click on the Class tab and click on "Add to a Class" button.
+
+Click on "Add to Class" button for the Class you need to add the Student.
+
+To Add Bulk Students, refer here - Import Students & Parents/Contacts
+
+
+
+
+
+Add a Instructor or Staff 
+
+Click on the Staff menu and click on the Staff Info submenu. 
+
+Click on Add Staff and fill the required information in the Staff Info popup. Click on the "Create & Close" button.
+
+
+
+
+
+
+
+To Add Bulk Staff, refer here - Import Staff
